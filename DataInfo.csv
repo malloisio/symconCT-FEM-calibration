@@ -1,0 +1,7 @@
+Specimen_label;Section;Layers;Load;Thickness_mm;Width_mm;Height_mm
+IMax m-std;Central;IM;Ax;1.72;25.03;30
+IMax m;Central;IM;Ax;2.06;25.29;30
+IMax m+std;Proximal;IM;Ax;2.43;25.04;30
+IMcirc m-std;Central;IM;Circ;1.5;24.72;30
+IMcirc m;Proximal;IM;Circ;1.86;25.2;30
+IMcirc m+std;Central;IM;Circ;1.76;25.1;30
